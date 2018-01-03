@@ -1,0 +1,146 @@
+<user name="bigsammy@mail.ru">
+	<Profiles>
+		<Profile permURI="http://abramkin.com/bigsammy" profilename="bigsammy">
+			<Infos>
+				<Info>
+					<Title>
+						First Name
+					</Title>
+					<Value>
+						Anton
+					</Value>
+					<Action>
+						
+					</Action>
+				</Info>
+				<Info>
+					<Title>
+						Last Name
+					</Title>
+					<Value>
+						Abramkin
+					</Value>
+					<Action>
+						
+					</Action>
+				</Info>
+				<Info>
+					<Title>
+						Nick Name
+					</Title>
+					<Value>
+						Abramkin
+					</Value>
+					<Action>
+						
+					</Action>
+				</Info>
+				<Info>
+					<Title>
+						Avatar
+					</Title>
+					<Value>
+						http://abramkin.com/bigsammy?avatar
+					</Value>
+					<Action>
+						
+					</Action>
+				</Info>
+				<Info>
+					<Title>
+						Phone
+					</Title>
+					<Value>
+						+7(952)211-9187
+					</Value>
+					<Action>
+						Phone
+					</Action>
+				</Info>
+				<Info>
+					<Title>
+						Skype
+					</Title>
+					<Value>
+						antonabramkin
+					</Value>
+					<Action>
+						Skype
+					</Action>
+				</Info>
+				<Info>
+					<Title>
+						Vkontakte
+					</Title>
+					<Value>
+						http://vk.ru/1234567
+					</Value>
+					<Action>
+						VK
+					</Action>
+				</Info>
+				<Info>
+					<Title>
+						Personal Website
+					</Title>
+					<Value>
+						http://vk.ru/1234567
+					</Value>
+					<Action>
+						VK
+					</Action>
+				</Info>
+			</Infos>
+		</Profile>
+	</Profiles>
+	<Favorites>
+		<Profile permURI="http://abramkin.com/abramkina" profilename="abramkina">
+			<Infos>
+				<Info type="self">
+					<Title>
+						First Name
+					</Title>
+					<Value>
+						Vika
+					</Value>
+					<Action>
+						
+					</Action>
+				</Info>
+				<Info type="self">
+					<Title>
+						Last Name
+					</Title>
+					<Value>
+						Abramkina
+					</Value>
+					<Action>
+						
+					</Action>
+				</Info>
+				<Info type="userdefined">
+					<Title>
+						Nick Name
+					</Title>
+					<Value>
+						Zhena
+					</Value>
+					<Action>
+						
+					</Action>
+				</Info>
+				<Info type="userdefined">
+					<Title>
+						Nick Name
+					</Title>
+					<Value>
+						Zhena
+					</Value>
+					<Action>
+						
+					</Action>
+				</Info>
+			</Infos>
+		</Profile>
+	</Favorites>
+</user>
